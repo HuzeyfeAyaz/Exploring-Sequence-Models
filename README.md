@@ -1,6 +1,6 @@
 # Advanced RNN with Sequential Models
 
-Following topics were covered in this repository:
+The following topics are covered in this repository:
 
 * Embedding Layers
 * Using pre-trained GloVe word embeddings
@@ -8,4 +8,3 @@ Following topics were covered in this repository:
 * Advanced RNN algorithms:
 	* Long Short Term Memories (LSTM)
 	* Gated Recurrent Unit (GRU)
-
